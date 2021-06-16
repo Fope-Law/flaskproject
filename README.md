@@ -1,2 +1,2 @@
-# flaskproject-
+# flaskproject
 Apps made with Flask
